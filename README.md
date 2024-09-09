@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**bjorneme/bjorneme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here’s a refined version of your GitHub profile text:
 
-Here are some ideas to get you started:
+Hi there 👋
+I’m currently pursuing an M.Sc. in Computer Science at NTNU, specializing in Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Current Project
+Master's thesis on Anomaly Detection in Chest X-rays.
+
+Four selected projects:
+1. Autoencoder and VAE: Anomaly detection.
+2. Electrical Consumption Forecasting: Power usage prediction.
+3. Deep Reinforcement Learning for Hex: MCTS-based decision-making.
+4. Movi.com: Movie recommendation system.
