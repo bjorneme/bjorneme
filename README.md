@@ -8,7 +8,8 @@ Master's thesis on Anomaly Detection in Chest X-rays.
 1. Autoencoder and VAE: Anomaly detection.
 2. Electrical Consumption Forecasting: Power usage prediction.
 3. Deep Reinforcement Learning for Hex: MCTS-based decision-making.
-4. Movi.com: Movie recommendation system.
+4. [Movi.com](https://github.com/Jensern1/Movi.com)
+   -  Movi.com is a website built with React and TypeScript, using GraphQL for queries, TanStack Query for data fetching, and a custom backend powered by Apollo Server and a Prisma database
 
 # How to reach me:
 - Email: bjorn.melaaen@gmail.com
