@@ -1,5 +1,5 @@
 # Hi there 👋
-I’m currently pursuing an M.Sc. in Computer Science at NTNU, specializing in Artificial Intelligence, with a focus on Anomaly Detection in my master's thesis.
+I’m currently pursuing an M.Sc. in Computer Science at NTNU, specializing in Artificial Intelligence.
 
 # Current Project
 Master's thesis on Anomaly Detection in Chest X-rays.
@@ -11,5 +11,5 @@ Master's thesis on Anomaly Detection in Chest X-rays.
 4. Movi.com: Movie recommendation system.
 
 # How to reach me:
-Email: bjorn.melaaen@gmail.com
-LinkedIn: [here](https://www.linkedin.com/in/bj%C3%B8rn-melaaen-606082226/)
+- Email: bjorn.melaaen@gmail.com
+- LinkedIn: [here](https://www.linkedin.com/in/bj%C3%B8rn-melaaen-606082226/)
